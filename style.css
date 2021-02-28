@@ -1,0 +1,9 @@
+
+.custom-btn {
+	width: 200px;
+	background-color: #198754;
+}
+
+.btn.btn-link.btn-block.text-left.collapsed {
+	text-decoration: none;
+}
